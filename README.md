@@ -1,1 +1,3 @@
-Demo app implement with RxSwift in MVVM. Original project created by Marin Torodov @icanzilb, i'm just refactor it to MVVM. Please give all creadits to @icanzilb.
+Demo app implemented with RxSwift in MVVM. Original project was created by Marin Todorov @icanzilb, i'm just refactor it to MVVM. Please give all credits to @icanzilb.
+
+https://github.com/icanzilb/RealmGitHubSearchRxDemo
